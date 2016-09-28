@@ -1,1 +1,1 @@
-This is the repo for my Store Tracker Application
+An Application that tracks daily stocks using NASDAQ index chart
